@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_project/widget/navbar_widget.dart';
-// import 'package:font_awesome_flutter/font_awesome.dart';
+// import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class CakeryDetail extends StatelessWidget {
   final String assetPath;

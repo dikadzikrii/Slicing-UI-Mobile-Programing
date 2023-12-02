@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:my_project/screen/cakery_detail.dart';
-import '../data/cake.dart';
+import 'package:my_project/data/cake.dart';
 
-class CookiePage extends StatelessWidget {
-  const CookiePage({super.key});
+class CakePage extends StatelessWidget {
+  const CakePage({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -106,9 +106,9 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
             child: TabBarView(
               controller: _tabController,
               children: const [
-                CakeryPage(),
-                CakeryPage(),
-                CakeryPage(),
+                CakePage(),
+                CakePage(),
+                CakePage(),
               ],
             ),
           ),
